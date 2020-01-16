@@ -837,3 +837,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.01.16-21.39.48:218][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.01.16-21.39.48:218][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000038 seconds (updated 0 objects)
 [2020.01.16-21.39.48:219][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.01.16-21.42.25:576][724]LogEditorViewport: Clicking on Actor (LMB): TextRenderActor (TemplateLabel)
+[2020.01.16-21.43.20:699][336]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.01.16-21.43.37:396][300]LogSlate: Took 0.000271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.01.16-21.43.37:401][300]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2020.01.16-21.43.37:437][300]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2020.01.16-21.43.38:222][300]LogSavePackage: Moving 'C:/Users/Ian Newhart/Newhart_SetDressing/Newhart_SetDressing/Saved/FirstPersonExampleMap2BBFDC3948887132D661C5888CA6EBEB.tmp' to 'C:/Users/Ian Newhart/Newhart_SetDressing/Newhart_SetDressing/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2020.01.16-21.43.39:441][300]LogSavePackage: Moving 'C:/Users/Ian Newhart/Newhart_SetDressing/Newhart_SetDressing/Saved/FirstPersonExampleMap_BuiltData6422BC464BC62C12FE5FE7B6D52A5AD2.tmp' to 'C:/Users/Ian Newhart/Newhart_SetDressing/Newhart_SetDressing/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2020.01.16-21.43.46:361][713]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2020.01.16-21.43.48:424][836]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2020.01.16-21.43.49:670][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2020.01.16-21.43.51:298][  7]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
